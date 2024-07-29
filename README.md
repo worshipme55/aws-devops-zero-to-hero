@@ -20,7 +20,7 @@ You'll dive into EC2, which provides virtual servers in the cloud. You'll learn 
 
 **Your First AWS Project**: Deploy a simple web application(such as jenkins) on the ec2 instance and access the application from outside AWS.
 
-## Day 4: AWS Networking (VPC)
+## Day 4: AWS Networking (VPC) 
 
 You'll explore AWS networking concepts, with a specific focus on VPC (Virtual Private Cloud). You'll learn how to create and configure VPCs, subnets, and route tables, enabling you to design and manage the network infrastructure for your applications.
 
